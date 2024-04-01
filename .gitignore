@@ -2,3 +2,7 @@
 .DS_Store
 /.DS_Store
 .DS_*
+
+#test code
+/Main.java
+Main.java
