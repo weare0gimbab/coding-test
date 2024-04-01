@@ -1,6 +1,5 @@
-# Bronze 5 ??!
-(https://www.acmicpc.net/problem/10926,"문제 링크")
----
+# Bronze 5. ??!
+<https://www.acmicpc.net/problem/10926>
 성능
 시간제한 1초 메모리 256MB
 
